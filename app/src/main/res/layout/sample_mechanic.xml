@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginBottom="20dp"
+    android:padding="5dp"
+    android:background="#F5F5F5">
+
+    <TextView
+        android:id="@+id/MBname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bussiness name"
+        android:padding="9dp"
+        android:textSize="23sp"
+        android:textAllCaps="true"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/Mname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="name"
+        android:paddingLeft="9dp"
+        android:paddingRight="9dp"
+        android:paddingBottom="9dp"
+        android:textSize="18sp"/>
+
+
+    <TextView
+        android:id="@+id/Mstate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="state"
+        android:paddingLeft="9dp"
+        android:paddingRight="9dp"
+        android:paddingBottom="9dp"
+        android:textSize="19sp"/>
+
+</LinearLayout>

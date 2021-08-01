@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mechanic Founder</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="mechanic_finder_fragment">Mechanic Finder fragment</string>
+    <string name="user_setting_fragment">User fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

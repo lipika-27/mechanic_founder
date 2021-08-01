@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3368400888",
+    "project_id": "mechanic-founder",
+    "storage_bucket": "mechanic-founder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3368400888:android:dbb4d2194a57919e20880d",
+        "android_client_info": {
+          "package_name": "com.example.mechanicfounder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3368400888-ljpkcmb1t8tn7dbm8asituoqlkikaauv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2YgrWbEjZ57gBRcIlcLGQIgThyM5vwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3368400888-ljpkcmb1t8tn7dbm8asituoqlkikaauv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

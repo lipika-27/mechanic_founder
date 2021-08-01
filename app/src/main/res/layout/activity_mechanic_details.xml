@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MechanicDetailsActivity"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/mechanicdtlback">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mechanics Details"
+            android:background="@drawable/textbgrect"
+            android:padding="15dp"
+            android:textSize="24sp"
+            android:layout_marginBottom="30dp"
+            android:gravity="center"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tvBname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="name"
+            android:textColor="#424242"
+            android:textSize="20sp"
+            android:textStyle="bold|italic"
+            android:textAllCaps="true"/>
+
+        <TextView
+            android:id="@+id/tvname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="name"
+            android:textColor="#424242"
+            android:textSize="20sp"
+            android:textStyle="bold|italic" />
+
+        <TextView
+            android:id="@+id/tvemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="name"
+            android:textColor="#424242"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/tvaddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="name"
+            android:textColor="#424242"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/tvstate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="name"
+            android:textColor="#424242"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/tvphno"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="name"
+            android:textColor="#424242"
+            android:textSize="20sp"
+            android:textStyle="italic"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
